@@ -18,11 +18,15 @@ sudo systemctl disable lightdm.service
 wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
 sudo dpkg --install chrome-remote-desktop_current_amd64.deb
 sudo apt install --assume-yes --fix-broken
+
+echo "initial setup finished"
+
 sudo apt install nautilus nano -y
 
 sudo apt -y install firefox
 
 sudo apt install nload
+echo "firefox and nload installed"
 sudo adduser root chrome-remote-desktop
 } &> /dev/null &&
 printf "\nSetup Completed " >&2 ||
