@@ -5,7 +5,7 @@ Create Free RDP Debian OS on Google Cloud unlimited
   <img src="https://img.shields.io/badge/Google-RDP-green" />
 </p>
 
-![Image of NAHID](https://raw.githubusercontent.com/smnahidemon/Google-Cloud-RDP/demo.png)
+
 
 ## WARNING 
 Before using or making this RDP please follow all the steps below
