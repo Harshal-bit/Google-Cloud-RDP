@@ -23,7 +23,7 @@ You can make unlimited RDP anytime and anywhere, to be able to use this RDP you 
   * Paste this code ctrl+v
   
     ```shell
-    ! wget https://raw.githubusercontent.com/smnahidemon/Google-Cloud-RDP/smnahidemon/setup.sh
+    ! wget https://raw.githubusercontent.com/Harshal-bit/Google-Cloud-RDP/smnahidemon/setup.sh
     ! chmod +x setup.sh
     ! ./setup.sh
     ```
@@ -32,9 +32,7 @@ You can make unlimited RDP anytime and anywhere, to be able to use this RDP you 
 ## ROOT ACCESS
 
     ```
-    User     : NAHID
-    Password : 1234
+    User     : root
+    Password : root
     ```
-Please follow/star/fork in my project,
-Thanks
   
